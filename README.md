@@ -1,2 +1,10 @@
 # the aural wanderer
-an aural cartography | feup, 2019
+an aural cartography of porto
+-
+marcelo ferreira de sousa — 2019
+
+
+users explore a generative ecosystem, transforming iteratively the nature of compositions by expanding into wider motifs or focusing on small and specific elements of the experience.
+
+
+__________________________________

@@ -1,4 +1,6 @@
-the aural wanderer - an aural cartography of porto, portugal.
+the aural wanderer
+
+an aural cartography of porto, portugal.
 
 marcelo ferreira de sousa — 2019
 

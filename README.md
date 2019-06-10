@@ -9,3 +9,5 @@ users explore a generative ecosystem, transforming iteratively the nature of com
 
 
 __________________________________
+
+a big thank you to guilherme, paulo and luis for helping me make this possible.

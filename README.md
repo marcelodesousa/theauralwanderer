@@ -4,7 +4,7 @@ an aural cartography of porto, portugal.
 
 __short description__: 
 
-the aural wanderer is an application written in [MAX/MSP](https://cycling74.com/products/max) for a prototype audio installation named __aural:wandering__, inviting participants to navigate across the aural landscape of Porto. users explore a generative ecosystem, transforming the compositional nature of the soundscapes by exploring different layers of the sonic space.
+__the aural wanderer__ is an application written in [MAX/MSP](https://cycling74.com/products/max) for a prototype audio installation named __aural:wandering__, inviting participants to navigate across the aural landscape of Porto. users explore a generative ecosystem, transforming the compositional nature of the soundscapes by exploring different layers of the sonic space.
 
 __abstract__: 
 

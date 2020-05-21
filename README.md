@@ -12,9 +12,6 @@ From the growing cultural metamorphosis of the Historical Centre of Porto comes 
 
 [marcelo sousa](0000999.xyz) — 2019
 
-
-
-
 __________________________________
 
-##### a big thank you to guilherme, paulo, luis and rita for helping me make this possible. #####
+a big thank you to [gui](https://github.com/g-souka), paulo, [luis](https://github.com/luisArandas) and [tiago](https://github.com/rizumirai) for helping me make this possible.

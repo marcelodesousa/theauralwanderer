@@ -12,4 +12,4 @@ From the growing cultural metamorphosis of the Historical Centre of Porto comes 
 
 __________________________________
 
-a big thank you to [gui](https://github.com/girlflux), paulo, [luis](https://github.com/luisArandas) and [tiago](https://somflores.xyz) for helping me make this possible.
+a big thank you to [gui](https://github.com/girlflux), [paulo](https://github.com/PauloTeixeira94), [luis](https://github.com/luisArandas) and [tiago](https://somflores.xyz) for helping me make this possible.
